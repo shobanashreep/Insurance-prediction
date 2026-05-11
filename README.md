@@ -58,11 +58,10 @@ Used to visualize prediction trends based on age.
 
 Used for binary classification to predict whether a person will buy insurance or not.
 
----
 
 Project Structure
 
-bash
+Bash
 Insurance-Prediction/
 │
 ├── app.py
